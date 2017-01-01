@@ -1,0 +1,17 @@
+#carousel {
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  margin: 0 auto; }
+  #carousel ul {
+    padding: 0;
+    margin: 0;
+    width: 3000px; }
+    #carousel ul li {
+      list-style-type: none;
+      float: left;
+      height: 400px; }
+      #carousel ul li img {
+        width: 600px; }
+
+/*# sourceMappingURL=style.css.map */
